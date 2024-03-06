@@ -18,6 +18,31 @@ This research focuses on analyzing regional characteristics of patients through 
 
 ![Block Left and Right](./image_pic/cover.png)
 
+## Block middle by 40%
+- **Model:** ResNet50
+- **Test Accuracy:** 0.8907
+- **Epochs:** 4
+- **Description:** Test accuracy after blocking middle by 40%.  
+
+![Block middle](./image_pic/cover_middle_125.png)
+
+## Block middle by 90%
+- **Model:** ResNet50
+- **Test Accuracy:** 0.6293
+- **Epochs:** 4
+- **Description:** Test accuracy after blocking middle by 90%.  
+
+![Block middle](./image_pic/cover_middle_240.png)
+
+## Block middle by 80%
+- **Model:** ResNet50
+- **Test Accuracy:** 0.7813
+- **Epochs:** 4
+- **Description:** Test accuracy after blocking middle by 80%.  
+
+![Block middle](./image_pic/cover_middle_200.png)
+
+
 ## CLAHE (Contrast Limited Adaptive Histogram Equalization)
 - **Model:** ResNet50
 - **Test Accuracy:** 0.8993
